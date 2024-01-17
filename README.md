@@ -1,31 +1,39 @@
-Components Built with Tailwind CSS
-This project showcases a collection of components built with Tailwind CSS, a utility CSS framework.
+yarn install
+```
 
-Contents
-Installation
-Components
-Contribute
-License
-Installation
-To use these components, you need to include Tailwind CSS in your project. You can install it using npm or yarn.
+4. Construisez le projet :
 
-Using npm:
+````bash
+npm run build
+```
 
-Copier
-npm install tailwindcss
-Using yarn:
+ou
 
-Copier
-yarn add tailwindcss
-Once Tailwind CSS is installed, you can import the CSS files into your application.
+````bash
+yarn build
+```
 
-Components
-Button
-Card
-Form
-Contribute
-Contributions to this project are welcome.
+5. Incluez le fichier CSS compilé dans votre projet.
 
-License
-No license is applied to this project.
+## Utilisation
 
+Une fois que vous avez inclus le fichier CSS compilé dans votre projet, vous pouvez commencer à utiliser les composants en incluant leur balisage HTML respectif. Référez-vous aux fichiers de chaque composant dans ce dépôt pour des exemples.
+
+## Contribution
+
+Les contributions sont les bienvenues ! Si vous souhaitez contribuer à ce projet, veuillez suivre ces étapes :
+
+1. Fork le dépôt.
+2. Créez une nouvelle branche pour votre fonctionnalité ou correction de bogue.
+3. Effectuez vos modifications et effectuez des commits avec des messages descriptifs.
+4. Poussez vos modifications vers votre dépôt forké.
+5. Soumettez une pull request vers le dépôt principal.
+
+Veuillez vous assurer que vos contributions respectent les directives et les normes de codage de ce projet.
+
+## Licence
+
+Aucune licence n'est appliquée à ce projet.
+```
+
+Vous pouvez copier le markdown ci-dessus et l'enregistrer dans un fichier nommé `README.md` dans votre dépôt GitHub. Assurez-vous de remplacer `votre-nom-utilisateur` et `votre-depot` par votre nom d'utilisateur et le nom réel de votre dépôt GitHub.
